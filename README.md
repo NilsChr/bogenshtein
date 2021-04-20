@@ -1,4 +1,7 @@
-# levenstein
+# Bogensthein
+
+## Summary
+Project using difference techniques for checking if two names are the same regardless of typos and missing middle names.
 
 ## Project setup
 ```
